@@ -16,10 +16,10 @@ This Python script renames files in a directory by replacing underscores (`_`) w
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/rename-files-script.git  
-   cd rename-files-script```
+   cd rename-files-script
 2. Run the script:
    ```bash
-   python rename_files.py```
+   python rename_files.py
 3. Enter the directory path when prompted.
 
 ## License
