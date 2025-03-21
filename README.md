@@ -9,17 +9,22 @@ This Python script renames files in a directory by replacing underscores (`_`) w
 - Ensures no file is overwritten by checking for name conflicts.  
 - Handles errors like invalid paths, permission issues, and OS errors.  
 
+## Why This Program?
+If you're someone who downloads movies, music, or other files from torrents, you've probably noticed that many of these files come with underscores (_) in their names. While this might be fine for some, it can look messy and unorganized.
+
+If you're a neat and organized person who prefers clean filenames, this program is for you! Instead of manually renaming files one by one, you can use this script to rename all files in a directory in bulk. It replaces underscores with spaces in a matter of seconds, saving you time and effort while keeping your files tidy and readable.
+
 ## Requirements  
 - Python 3.6 or higher.  
 
 ## Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/rename-files-script.git  
-   cd rename-files-script
+   git clone https://github.com/Barbodgh/file-renamer.git  
+   cd file-renamer
 2. Run the script:
    ```bash
-   python rename_files.py
+   python file-renamer.py
 3. Enter the directory path when prompted.
 
 ## License
